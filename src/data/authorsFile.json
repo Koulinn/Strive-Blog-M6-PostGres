@@ -1,0 +1,22 @@
+[
+    {
+        "name": "sadsad",
+        "surname": "asdasdas",
+        "email": "rafauxdev@gmail.com",
+        "birthday": "5545-04-05",
+        "password": "sadsadsalkj",
+        "id": "1f6ntf9poksj8nsaw",
+        "avatar": "https://res.cloudinary.com/koulin/image/upload/v1629396592/Strive-Blog-Avatar/bir1sjjq21r3uy0lejwv.jpg",
+        "createdAt": "2021-08-19T18:09:51.367Z"
+    },
+    {
+        "name": "Rafael",
+        "surname": "Lima",
+        "email": "drdverzola@gmail.com",
+        "birthday": "54544-05-04",
+        "password": "asdsadasd",
+        "id": "1f6ntfeu4ksj9dzee",
+        "avatar": "https://res.cloudinary.com/koulin/image/upload/v1629397814/Strive-Blog-Avatar/l5o27k3eqw59ihpfxequ.png",
+        "createdAt": "2021-08-19T18:30:13.621Z"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "_id": "1f6ntfangksj8rolu",
+        "content": "<p>sadasdas</p>",
+        "cover": "https://res.cloudinary.com/koulin/image/upload/v1629396774/Strive-Blog-Covers/a1sswc6wkjfdpi7vrnra.png",
+        "category": "cakes",
+        "title": "sadasd",
+        "readTime": {
+            "value": 2,
+            "unit": "minute"
+        },
+        "author": {
+            "name": "sadsad",
+            "avatar": "https://res.cloudinary.com/koulin/image/upload/v1629396592/Strive-Blog-Avatar/bir1sjjq21r3uy0lejwv.jpg"
+        },
+        "createdAt": "2021-08-19T18:12:53.201Z"
+    }
+]
