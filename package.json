@@ -39,6 +39,7 @@
     "nodemon": "^2.0.12",
     "pdf-to-base64": "^1.0.3",
     "pdfmake": "^0.2.2",
+    "pg": "^8.7.1",
     "uniqid": "^5.3.0"
   },
   "devDependencies": {
